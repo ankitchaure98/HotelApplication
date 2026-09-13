@@ -1,0 +1,20 @@
+# Java / Eclipse
+
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+target/
+.classpath
+.project
+.settings/
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+
+# Environment files
+.env
+frontend/.env
+
+# Logs
+*.log
